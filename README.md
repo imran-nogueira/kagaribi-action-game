@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Kagaribi — A top-down action roguelite in Java and libGDX: engine-free game rules, enforced by the build and covered by 379 tests." src="assets/banner-light.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Kagaribi — A top-down action game in Java and libGDX: engine-free game rules, enforced by the build and covered by 379 tests." src="assets/banner-light.png"></picture>
 
 **Epitech Bachelor · Year 2 · Object-oriented programming (B-OOP-301) · Oct 2026**  
 Source code is private under Epitech's academic policy. Happy to walk you through it or demo it live → **imran.nogueira@gmail.com**
